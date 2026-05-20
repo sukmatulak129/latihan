@@ -1,0 +1,322 @@
+Jabatan,Kode Unit,Judul Unit,Elemen Kompetensi,KUK
+Cyber security,J.62KAM00.001.2,Mengklasifikasikan Informasi yang Bersifat Rahasia,Membuat kategori klasifikasi informasi,kategori klasifikasi informasi diidentifikasi berdasarkan kebutuhan keamanan informasi
+Cyber security,J.62KAM00.001.2,Mengklasifikasikan Informasi yang Bersifat Rahasia,Membuat kategori klasifikasi informasi,hasil identifikasi kategori klasifikasi informasi dianalisis sesuai kebutuhan keamanan informasi
+Cyber security,J.62KAM00.001.2,Mengklasifikasikan Informasi yang Bersifat Rahasia,Membuat kategori klasifikasi informasi,kategori klasifikasi informasi disusun berdasarkan hasil analisis.
+Cyber security,J.62KAM00.001.2,Mengklasifikasikan Informasi yang Bersifat Rahasia,Mendata informasi yang bersifat rahasia,daftar informasi diinventarisasi sesuai kategori klasifikasi informasi
+Cyber security,J.62KAM00.001.2,Mengklasifikasikan Informasi yang Bersifat Rahasia,Mendata informasi yang bersifat rahasia,daftar informasi bersifat rahasia disusun sesuai format berlaku organisasi.
+Cyber security,J.62KAM00.002.1,Melaksanakan Pengamanan Informasi yang Bersifat Rahasia,Menentukan kebijakan kriptografi,kebijakan kriptografi diidentifikasi sesuai kebutuhan keamanan informasi
+Cyber security,J.62KAM00.002.1,Melaksanakan Pengamanan Informasi yang Bersifat Rahasia,Menentukan kebijakan kriptografi,kebijakan kriptografi dipilih sesuai kategori klasifikasi informasi.
+Cyber security,J.62KAM00.002.1,Melaksanakan Pengamanan Informasi yang Bersifat Rahasia,Menentukan metode enkripsi data,metode enkripsi diidentifikasi berdasarkan kebijakan kriptografi
+Cyber security,J.62KAM00.002.1,Melaksanakan Pengamanan Informasi yang Bersifat Rahasia,Menentukan metode enkripsi data,metode enkripsi dipilih berdasarkan kebijakan kriptografi.
+Cyber security,J.62KAM00.009.1,Melaksanakan Autentikasi dalam Upaya Mencegah Pemalsuan Informasi,Melakukan validasi dalam upaya mencegah pemalsuan informasi,kriteria autentikasi ditentukan berdasarkan kategori klasifikasi informasi
+Cyber security,J.62KAM00.009.1,Melaksanakan Autentikasi dalam Upaya Mencegah Pemalsuan Informasi,Melakukan validasi dalam upaya mencegah pemalsuan informasi,pemalsuan informasi divalidasi sesuai kriteria autentikasi.
+Cyber security,J.62KAM00.009.1,Melaksanakan Autentikasi dalam Upaya Mencegah Pemalsuan Informasi,Mendokumentasikan hasil Autentikasi untuk validasi informasi,informasi divalidasi berdasarkan metode autentikasi informasi
+Cyber security,J.62KAM00.009.1,Melaksanakan Autentikasi dalam Upaya Mencegah Pemalsuan Informasi,Mendokumentasikan hasil Autentikasi untuk validasi informasi,hasil validasi dicatat berdasarkan kebutuhan keamanan informasi.
+Cyber security,J.62KAM00.013.2,Menyusun Rencana Pelaksanaan Pelindungan Fisik Keamanan Informasi,Mengidentifikasi keberadaan entitas pada area pengamanan fisik,daftar aktivitas entitas lingkungan organisasi diinventarisasi berdasarkan daftar ancaman fisik
+Cyber security,J.62KAM00.013.2,Menyusun Rencana Pelaksanaan Pelindungan Fisik Keamanan Informasi,Mengidentifikasi keberadaan entitas pada area pengamanan fisik,daftar aktivitas entitas dianalisis sesuai kebutuhan keamanan fisik
+Cyber security,J.62KAM00.013.2,Menyusun Rencana Pelaksanaan Pelindungan Fisik Keamanan Informasi,Mengidentifikasi keberadaan entitas pada area pengamanan fisik,daftar aktivitas entitas dibuat berdasarkan format berlaku.
+Cyber security,J.62KAM00.013.2,Menyusun Rencana Pelaksanaan Pelindungan Fisik Keamanan Informasi,Menentukan rencana pelaksanaan pelindungan fisik Keamanan Informasi,rencana pelaksanaan pelindungan fisik disusun berdasarkan kebutuhan keamanan fisik
+Cyber security,J.62KAM00.013.2,Menyusun Rencana Pelaksanaan Pelindungan Fisik Keamanan Informasi,Menentukan rencana pelaksanaan pelindungan fisik Keamanan Informasi,rencana pelaksanaan pelindungan fisik keamanan informasi didokumentasikan sesuai format berlaku.
+Cyber security,J.62KAM00.014.2,Memetakan Profil Sumber Daya Manusia Keamanan Informasi,Menentukan profil SDM sesuai dengan profil risiko Keamanan Informasi organisasi,profil sdm diobservasi berdasarkan profil risiko organisasi
+Cyber security,J.62KAM00.014.2,Memetakan Profil Sumber Daya Manusia Keamanan Informasi,Menentukan profil SDM sesuai dengan profil risiko Keamanan Informasi organisasi,profil sdm dipetakan profil risiko organisasi
+Cyber security,J.62KAM00.014.2,Memetakan Profil Sumber Daya Manusia Keamanan Informasi,Menentukan profil SDM sesuai dengan profil risiko Keamanan Informasi organisasi,pemetaan profil sdm didokumentasikan berdasarkan kebutuhan keamanan informasi.
+Cyber security,J.62KAM00.014.2,Memetakan Profil Sumber Daya Manusia Keamanan Informasi,Menyusun pembagian peran sesuai profil SDM,peran jabatan keamanan informasi organisasi diidentifikasi sesuai pemetaan profil sdm
+Cyber security,J.62KAM00.014.2,Memetakan Profil Sumber Daya Manusia Keamanan Informasi,Menyusun pembagian peran sesuai profil SDM,dokumen peran jabatan keamanan informasi organisasi dibuat berdasarkan pemetaan profil sdm.
+Cyber security,J.62KAM00.015.1,Menyusun Dokumen Skrining Personel Keamanan Informasi,Menentukan kriteria skrining personel Keamanan Informasi,kriteria skrining personel keamanan informasi diidentifikasi sesuai dokumen peran jabatan
+Cyber security,J.62KAM00.015.1,Menyusun Dokumen Skrining Personel Keamanan Informasi,Menentukan kriteria skrining personel Keamanan Informasi,kriteria skrining personel keamanan informasi dipilih sesuai kebutuhan keamanan informasi.
+Cyber security,J.62KAM00.015.1,Menyusun Dokumen Skrining Personel Keamanan Informasi,Merancang instrumen skrining personel Keamanan Informasi,daftar pertanyaan instrumen skrining dibuat sesuai parameter kriteria skrining personel keamanan informasi
+Cyber security,J.62KAM00.015.1,Menyusun Dokumen Skrining Personel Keamanan Informasi,Merancang instrumen skrining personel Keamanan Informasi,mekanisme pengukuran instrumen skrining dibuat sesuai daftar pertanyaan instrumen skrining
+Cyber security,J.62KAM00.015.1,Menyusun Dokumen Skrining Personel Keamanan Informasi,Merancang instrumen skrining personel Keamanan Informasi,instrumen skrining personel keamanan informasi didokumentasikan sesuai format berlaku.
+Cyber security,J.62KAM00.003.2,Melaksanakan Pengamanan Integritas Informasi,Menentukan tingkat kepentingan informasi,tingkat kepentingan informasi diidentifikasi berdasarkan kategori klasifikasi informasi
+Cyber security,J.62KAM00.003.2,Melaksanakan Pengamanan Integritas Informasi,Menentukan tingkat kepentingan informasi,tingkat kepentingan informasi ditentukan berdasarkan hasil identifikasi.
+Cyber security,J.62KAM00.003.2,Melaksanakan Pengamanan Integritas Informasi,Melaksanakan pengamanan Integritas informasi,metode pengamanan integritas informasi diidentifikasi berdasarkan tingkat kepentingan informasi
+Cyber security,J.62KAM00.003.2,Melaksanakan Pengamanan Integritas Informasi,Melaksanakan pengamanan Integritas informasi,pengamanan integritas informasi dilaksanakan sesuai metode pengamanan integritas informasi.
+Cyber security,J.62KAM00.004.2,Melaksanakan Validasi Integritas Informasi,Mengidentifikasi ancaman terhadap Integritas informasi,informasi terkait ancaman integritas informasi diinventarisasi berdasarkan kebutuhan keamanan informasi
+Cyber security,J.62KAM00.004.2,Melaksanakan Validasi Integritas Informasi,Mengidentifikasi ancaman terhadap Integritas informasi,hasil inventarisasi ancaman integritas informasi dipilih berdasarkan kebutuhan keamanan informasi.
+Cyber security,J.62KAM00.004.2,Melaksanakan Validasi Integritas Informasi,Mengidentifikasi metode validasi Integritas informasi,metode validasi integritas informasi diinventarisasi berdasarkan ancaman
+Cyber security,J.62KAM00.004.2,Melaksanakan Validasi Integritas Informasi,Mengidentifikasi metode validasi Integritas informasi,metode validasi integritas informasi ditentukan berdasarkan praktik terbaik keamanan informasi.
+Cyber security,J.62KAM00.004.2,Melaksanakan Validasi Integritas Informasi,Mendokumentasikan hasil validasi Integritas informasi,integritas informasi divalidasi berdasarkan metode validasi
+Cyber security,J.62KAM00.004.2,Melaksanakan Validasi Integritas Informasi,Mendokumentasikan hasil validasi Integritas informasi,hasil validasi integritas informasi dicatat berdasarkan kebutuhan keamanan informasi.
+Cyber security,J.62KAM00.005.1,Melaksanakan Keberlangsungan Keamanan Informasi,Menentukan kebutuhan keberlangsungan Keamanan Informasi,aset penting diidentifikasi berdasarkan kebutuhan keamanan informasi
+Cyber security,J.62KAM00.005.1,Melaksanakan Keberlangsungan Keamanan Informasi,Menentukan kebutuhan keberlangsungan Keamanan Informasi,kebutuhan keberlangsungan keamanan informasi ditentukan berdasarkan hasil identifikasi aset penting.
+Cyber security,J.62KAM00.005.1,Melaksanakan Keberlangsungan Keamanan Informasi,Melaksanakan uji coba keberlangsungan Keamanan Informasi,skenario uji coba disusun berdasarkan kebutuhan keberlangsungan keamanan informasi
+Cyber security,J.62KAM00.005.1,Melaksanakan Keberlangsungan Keamanan Informasi,Melaksanakan uji coba keberlangsungan Keamanan Informasi,uji coba dilaksanakan sesuai skenario uji coba.
+Cyber security,J.62KAM00.007.1,Menetapkan Metode Autentikasi,Mengidentifikasi kebutuhan metode Autentikasi,ruang lingkup metode autentikasi diidentifikasi berdasarkan kebutuhan keamanan informasi
+Cyber security,J.62KAM00.007.1,Menetapkan Metode Autentikasi,Mengidentifikasi kebutuhan metode Autentikasi,daftar metode autentikasi diinventarisasi berdasarkan praktik terbaik keamanan informasi.
+Cyber security,J.62KAM00.007.1,Menetapkan Metode Autentikasi, Menentukan metode Autentikasi,metode autentikasi dipilih sesuai ruang lingkup
+Cyber security,J.62KAM00.007.1,Menetapkan Metode Autentikasi, Menentukan metode Autentikasi,metode autentikasi didokumentasikan sesuai format berlaku.
+Cyber security,J.62KAM00.010.1,Menentukan Aset Teknologi Informasi yang Dikontrol,Melakukan pencatatan Aset Teknologi Informasi,aset teknologi informasi diinventarisasi berdasarkan proses bisnis organisasi
+Cyber security,J.62KAM00.010.1,Menentukan Aset Teknologi Informasi yang Dikontrol,Melakukan pencatatan Aset Teknologi Informasi,daftar aset teknologi informasi dibuat berdasarkan hasil inventarisasi.
+Cyber security,J.62KAM00.010.1,Menentukan Aset Teknologi Informasi yang Dikontrol,Menerapkan kategori di setiap aset penting,aset penting ditentukan berdasarkan kebutuhan keamanan informasi
+Cyber security,J.62KAM00.010.1,Menentukan Aset Teknologi Informasi yang Dikontrol,Menerapkan kategori di setiap aset penting,kategori akses ditentukan setiap aset penting sesuai klasifikasi informasi
+Cyber security,J.62KAM00.010.1,Menentukan Aset Teknologi Informasi yang Dikontrol,Menerapkan kategori di setiap aset penting,daftar aset penting beserta kategori akses didokumentasikan sesuai format berlaku.
+Cyber security,J.62KAM00.011.2,Melaksanakan Pengontrolan Akses Pengguna yang Berwenang,Mengidentifikasi hak akses pengguna,daftar pengguna diinventarisasi berdasarkan peran fungsinya
+Cyber security,J.62KAM00.011.2,Melaksanakan Pengontrolan Akses Pengguna yang Berwenang,Mengidentifikasi hak akses pengguna,hak akses pengguna ditentukan berdasarkan kategori akses aset penting.
+Cyber security,J.62KAM00.011.2,Melaksanakan Pengontrolan Akses Pengguna yang Berwenang,Melakukan pengontrolan akses pengguna,akses pengguna dikonfigurasi sesuai hak akses pengguna
+Cyber security,J.62KAM00.011.2,Melaksanakan Pengontrolan Akses Pengguna yang Berwenang,Melakukan pengontrolan akses pengguna,akses pengguna dipantau berkala sesuai kebijakan organisasi.
+Teknisi Akuntansi,M.69PTA00.001.3,Memproses Entri Jurnal,Memeriksa dokumen sumber dan pendukung,dokumen sumber pendukung diidentifikasi
+Teknisi Akuntansi,M.69PTA00.001.3,Memproses Entri Jurnal,Memeriksa dokumen sumber dan pendukung,dokumen sumber pendukung diperiksa.
+Teknisi Akuntansi,M.69PTA00.001.3,Memproses Entri Jurnal,Mencatat dokumen sumber ke dalam jurnal,dokumen sumber dicatat dalam jurnal akurat sesuai standar berlaku
+Teknisi Akuntansi,M.69PTA00.001.3,Memproses Entri Jurnal,Mencatat dokumen sumber ke dalam jurnal,transaksi tepat dialokasikan dalam akun
+Teknisi Akuntansi,M.69PTA00.001.3,Memproses Entri Jurnal,Mencatat dokumen sumber ke dalam jurnal,pencatatan jurnal diverifikasi diotorisasi sesuai kebijakan prosedur perusahaan.
+Teknisi Akuntansi,M.69PTA00.001.3,Memproses Entri Jurnal,Mengarsipkan dokumen sumber dan pendukung,dokumen sumber pendukung disimpan sesuai kebijakan prosedur perusahaan
+Teknisi Akuntansi,M.69PTA00.001.3,Memproses Entri Jurnal,Mengarsipkan dokumen sumber dan pendukung,arsip dokumen diakses ditelusuri sesuai kebijakan prosedur perusahaan.
+Teknisi Akuntansi,M.69PTA00.002.1,Mengelola Akun Dalam Laporan Keuangan,Mempersiapkan verifikasi atau rekonsiliasi atas pengelolaan akun,"peralatan, perlengkapan format kertas kerja disediakan sesuai karakteristik kebutuhan perusahaan"
+Teknisi Akuntansi,M.69PTA00.002.1,Mengelola Akun Dalam Laporan Keuangan,Mempersiapkan verifikasi atau rekonsiliasi atas pengelolaan akun,pengelolaan akun laporan keuangan diidentifikasi
+Teknisi Akuntansi,M.69PTA00.002.1,Mengelola Akun Dalam Laporan Keuangan,Mempersiapkan verifikasi atau rekonsiliasi atas pengelolaan akun,data transaksi penggunaan akun terpilih disediakan.
+Teknisi Akuntansi,M.69PTA00.002.1,Mengelola Akun Dalam Laporan Keuangan,Melakukan pembukuan mutasi akun,"saldo awal akun, data mutasi akun saldo akhir akun diidentifikasi"
+Teknisi Akuntansi,M.69PTA00.002.1,Mengelola Akun Dalam Laporan Keuangan,Melakukan pembukuan mutasi akun,data mutasi akun diverifikasi sesuai ketentuan
+Teknisi Akuntansi,M.69PTA00.002.1,Mengelola Akun Dalam Laporan Keuangan,Melakukan pembukuan mutasi akun,data mutasi akun dibukukan sesuai ketentuan
+Teknisi Akuntansi,M.69PTA00.002.1,Mengelola Akun Dalam Laporan Keuangan,Melakukan pembukuan mutasi akun,saldo akhir akun diverifikasi sesuai ketentuan.
+Teknisi Akuntansi,M.69PTA00.002.1,Mengelola Akun Dalam Laporan Keuangan,Melakukan verifikasi atau rekonsiliasi data akun,kegiatan verifikasi rekonsiliasi data akun dilaksanakan
+Teknisi Akuntansi,M.69PTA00.002.1,Mengelola Akun Dalam Laporan Keuangan,Melakukan verifikasi atau rekonsiliasi data akun,selisih data buku data hasil verifikasi rekonsiliasi diidentifikasi
+Teknisi Akuntansi,M.69PTA00.002.1,Mengelola Akun Dalam Laporan Keuangan,Melakukan verifikasi atau rekonsiliasi data akun,laporanberita acara verifikasi rekonsiliasi data akun dibuat sesuai kebijakan prosedur perusahaan
+Teknisi Akuntansi,M.69PTA00.002.1,Mengelola Akun Dalam Laporan Keuangan,Melakukan verifikasi atau rekonsiliasi data akun,laporanberita acara verifikasi rekonsiliasi data akun dianalisis sesuai ketentuan.
+Teknisi Akuntansi,M.69PTA00.003.3,Memproses Buku Besar,Mempersiapkan pengelolaan buku besar,"peralatan, perlengkapan format kertas kerja dibutuhkan pengelolaan buku besar disediakan"
+Teknisi Akuntansi,M.69PTA00.003.3,Memproses Buku Besar,Mempersiapkan pengelolaan buku besar,dokumen sumber rekapitulasi jurnal diidentifikasi.
+Teknisi Akuntansi,M.69PTA00.003.3,Memproses Buku Besar,Membukukan jumlah angka dari jurnal ke buku besar,akunakun buku besar diidentifikasi
+Teknisi Akuntansi,M.69PTA00.003.3,Memproses Buku Besar,Membukukan jumlah angka dari jurnal ke buku besar,jumlah ada rekapitulasi jurnal dibukukan sesuai ketentuan.
+Teknisi Akuntansi,M.69PTA00.003.3,Memproses Buku Besar,Menyusun daftar saldo akun dalam buku besar,daftar saldo akun buku besar disajikan sesuai ketentuan
+Teknisi Akuntansi,M.69PTA00.003.3,Memproses Buku Besar,Menyusun daftar saldo akun dalam buku besar,saldo akun buku besar dipastikan kebenarannya.
+Teknisi Akuntansi,M.69PTA00.004.3,Menyusun Laporan Keuangan Entitas Tunggal untuk Skala UMKM,Mencatat jurnal penyesuaian,dokumen sumber penyesuaian diidentifikasi
+Teknisi Akuntansi,M.69PTA00.004.3,Menyusun Laporan Keuangan Entitas Tunggal untuk Skala UMKM,Mencatat jurnal penyesuaian,akunakun memerlukan penyesuaian diidentifikasi
+Teknisi Akuntansi,M.69PTA00.004.3,Menyusun Laporan Keuangan Entitas Tunggal untuk Skala UMKM,Mencatat jurnal penyesuaian,jurnal penyesuaian dicatat sesuai ketentuan.
+Teknisi Akuntansi,M.69PTA00.004.3,Menyusun Laporan Keuangan Entitas Tunggal untuk Skala UMKM,Menyajikan laporan keuangan,laporan posisi keuangan akhir periode disajikan sesuai standar berlaku
+Teknisi Akuntansi,M.69PTA00.004.3,Menyusun Laporan Keuangan Entitas Tunggal untuk Skala UMKM,Menyajikan laporan keuangan,laporan laba rugi selama periode disajikan sesuai standar berlaku
+Teknisi Akuntansi,M.69PTA00.004.3,Menyusun Laporan Keuangan Entitas Tunggal untuk Skala UMKM,Menyajikan laporan keuangan,catatan atas laporan keuangan disajikan sesuai standar berlaku.
+Teknisi Akuntansi,M.69PTA00.005.3,Menyusun Laporan Keuangan UMKM dengan Aplikasi Komputer,Menyusun data setup awal dan saldo awal,daftar akun disusun saldo awal akun dientri
+Teknisi Akuntansi,M.69PTA00.005.3,Menyusun Laporan Keuangan UMKM dengan Aplikasi Komputer,Menyusun data setup awal dan saldo awal,kode pajak disiapkan sesuai ketentuan
+Teknisi Akuntansi,M.69PTA00.005.3,Menyusun Laporan Keuangan UMKM dengan Aplikasi Komputer,Menyusun data setup awal dan saldo awal,datadata pengelolaan akun laporan keuangan dientri.
+Teknisi Akuntansi,M.69PTA00.005.3,Menyusun Laporan Keuangan UMKM dengan Aplikasi Komputer,Melakukan entri transaksi,transaksi akan dientri diidentifikasi
+Teknisi Akuntansi,M.69PTA00.005.3,Menyusun Laporan Keuangan UMKM dengan Aplikasi Komputer,Melakukan entri transaksi,transaksi dientri menggunakan menu tepat
+Teknisi Akuntansi,M.69PTA00.005.3,Menyusun Laporan Keuangan UMKM dengan Aplikasi Komputer,Melakukan entri transaksi,penyesuaian data dientri.
+Teknisi Akuntansi,M.69PTA00.006.1,Menyusun Laporan Keuangan Entitas Tunggal Keseluruhan Skala Usaha,Menyajikan laporan keuangan,laporan posisi keuangan per tanggal pelaporan disajikan
+Teknisi Akuntansi,M.69PTA00.006.1,Menyusun Laporan Keuangan Entitas Tunggal Keseluruhan Skala Usaha,Menyajikan laporan keuangan,laporan penghasilan komprehensif disajikan
+Teknisi Akuntansi,M.69PTA00.006.1,Menyusun Laporan Keuangan Entitas Tunggal Keseluruhan Skala Usaha,Menyajikan laporan keuangan,laporan perubahan ekuitas disajikan
+Teknisi Akuntansi,M.69PTA00.006.1,Menyusun Laporan Keuangan Entitas Tunggal Keseluruhan Skala Usaha,Menyajikan laporan keuangan,laporan arus kas disajikan
+Teknisi Akuntansi,M.69PTA00.006.1,Menyusun Laporan Keuangan Entitas Tunggal Keseluruhan Skala Usaha,Menyajikan laporan keuangan,catatan atas laporan keuangan disajikan.
+Teknisi Akuntansi,M.69PTA00.016.1,Memberikan Dukungan Penilaian Risiko,Memberikan dukungan teknis administrasi dokumen pra-perikatan,surat perikatan disiapkan sesuai ketentuan
+Teknisi Akuntansi,M.69PTA00.016.1,Memberikan Dukungan Penilaian Risiko,Memberikan dukungan teknis administrasi dokumen pra-perikatan,surat tugas disiapkan sesuai ketentuan
+Teknisi Akuntansi,M.69PTA00.016.1,Memberikan Dukungan Penilaian Risiko,Memberikan dukungan teknis administrasi dokumen pra-perikatan,pernyataan independensi disiapkan sesuai ketentuan.
+Teknisi Akuntansi,M.69PTA00.016.1,Memberikan Dukungan Penilaian Risiko,Melakukan prosedur analitis awal,pemahaman entitas lingkungan termasuk pengendalian internal didokumentasikan
+Teknisi Akuntansi,M.69PTA00.016.1,Memberikan Dukungan Penilaian Risiko,Melakukan prosedur analitis awal,prosedur analitis awal disajikan sesuai standar berlaku
+Teknisi Akuntansi,M.69PTA00.016.1,Memberikan Dukungan Penilaian Risiko,Melakukan prosedur analitis awal,pekerjaan sendiri pekerjaan orang ditelaah sesuai ketentuan.
+Teknisi Akuntansi,M.69PTA00.013.1,Melakukan Pemenuhan Pajak Orang Pribadi,Menyiapkan data perpajakan,dokumen pendukung pajak diidentifikasi
+Teknisi Akuntansi,M.69PTA00.013.1,Melakukan Pemenuhan Pajak Orang Pribadi,Menyiapkan data perpajakan,perhitungan pajak terutang dilakukan sesuai regulasi
+Teknisi Akuntansi,M.69PTA00.013.1,Melakukan Pemenuhan Pajak Orang Pribadi,Menyiapkan data perpajakan,draft spt disiapkan sesuai ketentuan.
+Teknisi Akuntansi,M.69PTA00.018.1,Dukungan Penyusunan Laporan Auditor Independen,Menyiapkan administrasi laporan,draft laporan auditor disiapkan
+Teknisi Akuntansi,M.69PTA00.018.1,Dukungan Penyusunan Laporan Auditor Independen,Menyiapkan administrasi laporan,dokumen pendukung opini dikompilasi
+Teknisi Akuntansi,M.69PTA00.018.1,Dukungan Penyusunan Laporan Auditor Independen,Menyiapkan administrasi laporan,administrasi finalisasi laporan diselesaikan sesuai prosedur.
+Programmer,J.62GIM00.034.2,Melakukan Integrasi Animasi,Mengatur Animation State Machine,klip animasi diimpor engine
+Programmer,J.62GIM00.034.2,Melakukan Integrasi Animasi,Mengatur Animation State Machine,transisi antar animasi diatur
+Programmer,J.62GIM00.034.2,Melakukan Integrasi Animasi,Mengatur Animation State Machine,logika pemicu trigger dihubungkan kode.
+Programmer,J.62GIM00.035.2,Melakukan Integrasi Audio,Mengimplementasikan audio engine,audio listener ditempatkan
+Programmer,J.62GIM00.035.2,Melakukan Integrasi Audio,Mengimplementasikan audio engine,sound mixer diatur volumenya
+Programmer,J.62GIM00.035.2,Melakukan Integrasi Audio,Mengimplementasikan audio engine,pemicu suara dipasang event game.
+Programmer,J.62GIM00.036.2,Melakukan Integrasi UI,Membangun fungsionalitas menu,canvas ui diatur skalanya
+Programmer,J.62GIM00.036.2,Melakukan Integrasi UI,Membangun fungsionalitas menu,event klik tombol dihubungkan fungsi
+Programmer,J.62GIM00.036.2,Melakukan Integrasi UI,Membangun fungsionalitas menu,data game ditampilkan layar hud.
+Programmer,J.62GIM00.038.2,Mengimplementasikan AI,Membangun perilaku NPC,logika pengambilan keputusan dibuat
+Programmer,J.62GIM00.038.2,Mengimplementasikan AI,Membangun perilaku NPC,pathfinding navmesh diimplementasikan
+Programmer,J.62GIM00.038.2,Mengimplementasikan AI,Membangun perilaku NPC,ai diuji berbagai skenario.
+Programmer,J.62GIM00.039.2,Mengimplementasikan Multiplayer,Membangun sinkronisasi data,arsitektur jaringan ditentukan
+Programmer,J.62GIM00.039.2,Mengimplementasikan Multiplayer,Membangun sinkronisasi data,sinkronisasi posisi pemain dilakukan
+Programmer,J.62GIM00.039.2,Mengimplementasikan Multiplayer,Membangun sinkronisasi data,latency ping dikelola.
+Programmer,J.62GIM00.040.2,Mengimplementasikan Monetisasi,Integrasi layanan IAP,katalog produk toko disiapkan
+Programmer,J.62GIM00.040.2,Mengimplementasikan Monetisasi,Integrasi layanan IAP,proses transaksi dihubungkan api
+Programmer,J.62GIM00.040.2,Mengimplementasikan Monetisasi,Integrasi layanan IAP,validasi pembelian dilakukan.
+Programmer,J.62GIM00.042.1,Membuat Struktur Data,Memilih tipe data yang efisien,struktur data dipilih sesuai kebutuhan
+Programmer,J.62GIM00.042.1,Membuat Struktur Data,Memilih tipe data yang efisien,algoritma logika game dioptimasi
+Programmer,J.62GIM00.042.1,Membuat Struktur Data,Memilih tipe data yang efisien,penggunaan memori dipantau.
+Programmer,J.62GIM00.043.1,Menerapkan Mekanika Game,Membangun sistem interaksi,logika input kendali dibuat
+Programmer,J.62GIM00.043.1,Menerapkan Mekanika Game,Membangun sistem interaksi,sistem collision tabrakan diterapkan
+Programmer,J.62GIM00.043.1,Menerapkan Mekanika Game,Membangun sistem interaksi,aturan mekanika diimplementasikan.
+Programmer,J.62GIM00.046.2,Melakukan Debugging,Mengidentifikasi kesalahan kode,error log dianalisis
+Programmer,J.62GIM00.046.2,Melakukan Debugging,Mengidentifikasi kesalahan kode,langkah reproduksi bug ditemukan
+Programmer,J.62GIM00.046.2,Melakukan Debugging,Mengidentifikasi kesalahan kode,perbaikan kode dilakukan divalidasi.
+Programmer,J.62GIM00.047.2,Mengimplementasikan Optimasi,Melakukan profiling kinerja,bottleneck gpucpu dideteksi
+Programmer,J.62GIM00.047.2,Mengimplementasikan Optimasi,Melakukan profiling kinerja,draw calls dikurangi
+Programmer,J.62GIM00.047.2,Mengimplementasikan Optimasi,Melakukan profiling kinerja,load balancing dilakukan.
+Data Analyst,M.70DAN00.001.1,Mengidentifikasi Masalah Bisnis,Menentukan kebutuhan bisnis,masalah bisnis diidentifikasi
+Data Analyst,M.70DAN00.001.1,Mengidentifikasi Masalah Bisnis,Menentukan kebutuhan bisnis,tujuan bisnis ditentukan
+Data Analyst,M.70DAN00.001.1,Mengidentifikasi Masalah Bisnis,Menentukan kebutuhan bisnis,kriteria keberhasilan analisis ditetapkan.
+Data Analyst,M.70DAN00.001.1,Mengidentifikasi Masalah Bisnis,Menentukan ruang lingkup analisis,batasan analisis ditentukan
+Data Analyst,M.70DAN00.001.1,Mengidentifikasi Masalah Bisnis,Menentukan ruang lingkup analisis,pemangku kepentingan diidentifikasi
+Data Analyst,M.70DAN00.001.1,Mengidentifikasi Masalah Bisnis,Menentukan ruang lingkup analisis,rencana kerja analisis disusun.
+Data Analyst,M.70DAN00.002.1,Menentukan Kebutuhan Data,Mengidentifikasi sumber data,jenis data dibutuhkan diidentifikasi
+Data Analyst,M.70DAN00.002.1,Menentukan Kebutuhan Data,Mengidentifikasi sumber data,sumber data potensial dipetakan
+Data Analyst,M.70DAN00.002.1,Menentukan Kebutuhan Data,Mengidentifikasi sumber data,metode perolehan data ditentukan.
+Data Analyst,M.70DAN00.002.1,Menentukan Kebutuhan Data,Menyusun spesifikasi data,format data ditentukan
+Data Analyst,M.70DAN00.002.1,Menentukan Kebutuhan Data,Menyusun spesifikasi data,struktur data didefinisikan
+Data Analyst,M.70DAN00.002.1,Menentukan Kebutuhan Data,Menyusun spesifikasi data,standar kualitas data ditetapkan.
+Data Analyst,M.70DAN00.003.1,Mengumpulkan Data,Melakukan akuisisi data,data dikumpulkan sumber primersekunder
+Data Analyst,M.70DAN00.003.1,Mengumpulkan Data,Melakukan akuisisi data,alat pengumpulan data digunakan sesuai prosedur
+Data Analyst,M.70DAN00.003.1,Mengumpulkan Data,Melakukan akuisisi data,integritas data selama pengumpulan dijaga.
+Data Analyst,M.70DAN00.004.1,Menelaah Data,Melakukan eksplorasi data,karakteristik data diidentifikasi
+Data Analyst,M.70DAN00.004.1,Menelaah Data,Melakukan eksplorasi data,ringkasan statistik data dihitung
+Data Analyst,M.70DAN00.004.1,Menelaah Data,Melakukan eksplorasi data,pola data awal diidentifikasi.
+Data Analyst,M.70DAN00.005.1,Membersihkan Data,Menangani kesalahan data,data duplikat dihapus
+Data Analyst,M.70DAN00.005.1,Membersihkan Data,Menangani kesalahan data,data hilang missing values ditangani
+Data Analyst,M.70DAN00.005.1,Membersihkan Data,Menangani kesalahan data,ketidakkonsistenan data diperbaiki.
+Data Analyst,M.70DAN00.006.1,Mengonstruksi Data,Melakukan transformasi data,format data disesuaikan
+Data Analyst,M.70DAN00.006.1,Mengonstruksi Data,Melakukan transformasi data,penggabungan data merging dilakukan
+Data Analyst,M.70DAN00.006.1,Mengonstruksi Data,Melakukan transformasi data,feature engineering dasar dilakukan.
+Data Analyst,M.70DAN00.007.1,Menganalisis Data Menggunakan Statistik,Menerapkan metode statistik,metode statistik relevan dipilih
+Data Analyst,M.70DAN00.007.1,Menganalisis Data Menggunakan Statistik,Menerapkan metode statistik,uji hipotesis korelasi dilakukan
+Data Analyst,M.70DAN00.007.1,Menganalisis Data Menggunakan Statistik,Menerapkan metode statistik,hasil statistik diinterpretasikan.
+Data Analyst,M.70DAN00.008.1,Menganalisis Data Menggunakan Alat Pemodelan,Membangun model analitik,algoritma pemodelan dipilih
+Data Analyst,M.70DAN00.008.1,Menganalisis Data Menggunakan Alat Pemodelan,Membangun model analitik,model dikembangkan menggunakan tool analitik
+Data Analyst,M.70DAN00.008.1,Menganalisis Data Menggunakan Alat Pemodelan,Membangun model analitik,validitas model diuji.
+Data Analyst,M.70DAN00.009.1,Mengevaluasi Hasil Analisis,Melakukan validasi hasil,hasil analisis dibandingkan tujuan bisnis
+Data Analyst,M.70DAN00.009.1,Mengevaluasi Hasil Analisis,Melakukan validasi hasil,signifikansi hasil dievaluasi
+Data Analyst,M.70DAN00.009.1,Mengevaluasi Hasil Analisis,Melakukan validasi hasil,rekomendasi disusun berdasarkan hasil evaluasi.
+Data Analyst,M.70DAN00.010.1,Melakukan Visualisasi Data,Merancang visualisasi,jenis grafik tepat dipilih
+Data Analyst,M.70DAN00.010.1,Melakukan Visualisasi Data,Merancang visualisasi,desain visualisasi dibuat informatif
+Data Analyst,M.70DAN00.010.1,Melakukan Visualisasi Data,Merancang visualisasi,interaktivitas visualisasi perlu disiapkan.
+Data Analyst,M.70DAN00.010.1,Melakukan Visualisasi Data,Mengomunikasikan insight,narasi data storytelling disusun
+Data Analyst,M.70DAN00.010.1,Melakukan Visualisasi Data,Mengomunikasikan insight,visualisasi dipresentasikan pemangku kepentingan.
+Data Analyst,M.70DAN00.011.1,Membuat Laporan Hasil Analisis,Menyusun draf laporan,struktur laporan ditentukan
+Data Analyst,M.70DAN00.011.1,Membuat Laporan Hasil Analisis,Menyusun draf laporan,temuan utama dituangkan teks
+Data Analyst,M.70DAN00.011.1,Membuat Laporan Hasil Analisis,Menyusun draf laporan,lampiran data teknis disiapkan.
+Data Analyst,M.70DAN00.012.1,Mengelola Keamanan dan Privasi Data,Menerapkan proteksi data,akses data dibatasi sesuai kewenangan
+Data Analyst,M.70DAN00.012.1,Mengelola Keamanan dan Privasi Data,Menerapkan proteksi data,teknik anonimisasi data diterapkan data sensitif.
+Data Analyst,M.70DAN00.013.1,Melakukan Penjaminan Kualitas Analisis,Memeriksa proses analisis,tahapan analisis diverifikasi
+Data Analyst,M.70DAN00.013.1,Melakukan Penjaminan Kualitas Analisis,Memeriksa proses analisis,dokumentasi kode metodologi diperiksa.
+Data Analyst,M.70DAN00.014.1,Memberikan Dukungan Pengambilan Keputusan,Menyajikan opsi keputusan,berbagai skenario hasil analisis disajikan
+Data Analyst,M.70DAN00.014.1,Memberikan Dukungan Pengambilan Keputusan,Menyajikan opsi keputusan,risiko peluang setiap opsi dijelaskan.
+Data Analyst,M.70DAN00.008.1,Menganalisis Data Menggunakan Alat Pemodelan,Mengoptimasi model,parameter model disesuaikan tuning
+Data Analyst,M.70DAN00.008.1,Menganalisis Data Menggunakan Alat Pemodelan,Mengoptimasi model,perbandingan akurasi antar model dilakukan.
+Data Analyst,M.70DAN00.005.1,Membersihkan Data,Mendokumentasikan pembersihan,langkahlangkah pembersihan dicatat
+Data Analyst,M.70DAN00.005.1,Membersihkan Data,Mendokumentasikan pembersihan,alasan penghapusan perubahan data diberikan transparan.
+Data Analyst,M.70DAN00.009.1,Mengevaluasi Hasil Analisis,Menelaah dampak bisnis,perkiraan dampak finansial operasional dihitung
+Data Analyst,M.70DAN00.009.1,Mengevaluasi Hasil Analisis,Menelaah dampak bisnis,hambatan implementasi hasil analisis dipetakan.
+Data Analyst,K.64SPP01.080.1,Mengelola Data Transaksi Sistem Pembayaran,Melakukan pengolahan data statistik transaksi,data volume nilai transaksi harian dikumpulkan
+Data Analyst,K.64SPP01.080.1,Mengelola Data Transaksi Sistem Pembayaran,Melakukan pengolahan data statistik transaksi,tren pertumbuhan transaksi nontunai dianalisis.
+Data Analyst,K.64SPP01.080.1,Mengelola Data Transaksi Sistem Pembayaran,Menyusun laporan manajerial,visualisasi data disusun bentuk dashboard
+Data Analyst,K.64SPP01.080.1,Mengelola Data Transaksi Sistem Pembayaran,Menyusun laporan manajerial,ringkasan eksekutif performa sistem pembayaran disajikan.
+Insinyur Elektro,M.71IEN00.001.1,Melaksanakan Praktik Keinsinyuran dengan Etika dan Profesionalisme,Mematuhi kode etik insinyur dan Mengelola tanggung jawab profesional.,kode etik keinsinyuran dipahami sesuai standar profesi
+Insinyur Elektro,M.71IEN00.001.1,Melaksanakan Praktik Keinsinyuran dengan Etika dan Profesionalisme,Mematuhi kode etik insinyur dan Mengelola tanggung jawab profesional.,integritas bekerja dijaga
+Insinyur Elektro,M.71IEN00.001.1,Melaksanakan Praktik Keinsinyuran dengan Etika dan Profesionalisme,Mematuhi kode etik insinyur dan Mengelola tanggung jawab profesional.,kepentingan publik diutamakan setiap keputusan teknis
+Insinyur Elektro,M.71IEN00.001.1,Melaksanakan Praktik Keinsinyuran dengan Etika dan Profesionalisme,Mematuhi kode etik insinyur dan Mengelola tanggung jawab profesional.,pengembangan kompetensi berkelanjutan dilakukan.
+Insinyur Elektro,M.71IEN00.002.1,Melakukan Komunikasi Teknis yang Efektif,Menyusun laporan teknis dan Melakukan presentasi teknis.,dokumen spesifikasi disusun bahasa teknis benar
+Insinyur Elektro,M.71IEN00.002.1,Melakukan Komunikasi Teknis yang Efektif,Menyusun laporan teknis dan Melakukan presentasi teknis.,laporan kemajuan proyek dibuat periodik
+Insinyur Elektro,M.71IEN00.002.1,Melakukan Komunikasi Teknis yang Efektif,Menyusun laporan teknis dan Melakukan presentasi teknis.,gagasan teknis dipresentasikan pemangku kepentingan.
+Insinyur Elektro,M.71IEN00.003.1,Menerapkan Prinsip K3LL di Tempat Kerja,Mengidentifikasi potensi bahaya dan Melaksanakan prosedur keselamatan kerja.,analisis risiko lingkungan kerja dilakukan
+Insinyur Elektro,M.71IEN00.003.1,Menerapkan Prinsip K3LL di Tempat Kerja,Mengidentifikasi potensi bahaya dan Melaksanakan prosedur keselamatan kerja.,apd digunakan sesuai standar
+Insinyur Elektro,M.71IEN00.003.1,Menerapkan Prinsip K3LL di Tempat Kerja,Mengidentifikasi potensi bahaya dan Melaksanakan prosedur keselamatan kerja.,prosedur keadaan darurat dipatuhi
+Insinyur Elektro,M.71IEN00.003.1,Menerapkan Prinsip K3LL di Tempat Kerja,Mengidentifikasi potensi bahaya dan Melaksanakan prosedur keselamatan kerja.,dampak lingkungan proyek elektro diminimalisir.
+Insinyur Elektro,M.71IEN00.004.1,Melakukan Perencanaan Sistem Tenaga Listrik,Menganalisis kebutuhan beban dan Merancang konfigurasi jaringan.,profil beban harian dihitung
+Insinyur Elektro,M.71IEN00.004.1,Melakukan Perencanaan Sistem Tenaga Listrik,Menganalisis kebutuhan beban dan Merancang konfigurasi jaringan.,pertumbuhan beban masa depan diprediksi
+Insinyur Elektro,M.71IEN00.004.1,Melakukan Perencanaan Sistem Tenaga Listrik,Menganalisis kebutuhan beban dan Merancang konfigurasi jaringan.,diagram satu garis single line diagram dirancang
+Insinyur Elektro,M.71IEN00.004.1,Melakukan Perencanaan Sistem Tenaga Listrik,Menganalisis kebutuhan beban dan Merancang konfigurasi jaringan.,proteksi sistem ditentukan.
+Insinyur Elektro,M.71IEN00.005.1,Melakukan Desain Instalasi Listrik Industri,Menentukan spesifikasi peralatan dan Membuat gambar rancangan.,kapasitas transformator kabel dipilih sesuai beban industri
+Insinyur Elektro,M.71IEN00.005.1,Melakukan Desain Instalasi Listrik Industri,Menentukan spesifikasi peralatan dan Membuat gambar rancangan.,motor control center mcc dirancang
+Insinyur Elektro,M.71IEN00.005.1,Melakukan Desain Instalasi Listrik Industri,Menentukan spesifikasi peralatan dan Membuat gambar rancangan.,layout peralatan dibuat
+Insinyur Elektro,M.71IEN00.005.1,Melakukan Desain Instalasi Listrik Industri,Menentukan spesifikasi peralatan dan Membuat gambar rancangan.,jadwal kabel disusun.
+Insinyur Elektro,M.71IEN00.006.1,Menerapkan Sistem Kontrol dan Automasi,Merancang logika kontrol dan Mengintegrasikan komponen automasi.,algoritma kontrol plcdcs disusun
+Insinyur Elektro,M.71IEN00.006.1,Menerapkan Sistem Kontrol dan Automasi,Merancang logika kontrol dan Mengintegrasikan komponen automasi.,hmi dirancang monitoring
+Insinyur Elektro,M.71IEN00.006.1,Menerapkan Sistem Kontrol dan Automasi,Merancang logika kontrol dan Mengintegrasikan komponen automasi.,sensor aktuator dipilih sesuai parameter proses
+Insinyur Elektro,M.71IEN00.006.1,Menerapkan Sistem Kontrol dan Automasi,Merancang logika kontrol dan Mengintegrasikan komponen automasi.,jaringan komunikasi data industri dikonfigurasi.
+Insinyur Elektro,M.71IEN00.007.1,Melakukan Analisis Aliran Daya dan Hubung Singkat,Melakukan pemodelan sistem dan Mengevaluasi hasil simulasi.,data parameter peralatan diinput perangkat lunak simulasi
+Insinyur Elektro,M.71IEN00.007.1,Melakukan Analisis Aliran Daya dan Hubung Singkat,Melakukan pemodelan sistem dan Mengevaluasi hasil simulasi.,drop tegangan dianalisis
+Insinyur Elektro,M.71IEN00.007.1,Melakukan Analisis Aliran Daya dan Hubung Singkat,Melakukan pemodelan sistem dan Mengevaluasi hasil simulasi.,arus hubung singkat dihitung setting proteksi.
+Insinyur Elektro,M.71IEN00.008.1,Merancang Sistem Proteksi Tenaga Listrik,Menentukan koordinasi proteksi dan Memilih gawai proteksi.,kurva koordinasi relai dibuat
+Insinyur Elektro,M.71IEN00.008.1,Merancang Sistem Proteksi Tenaga Listrik,Menentukan koordinasi proteksi dan Memilih gawai proteksi.,pemutus tenaga circuit breaker dipilih sesuai rating
+Insinyur Elektro,M.71IEN00.008.1,Merancang Sistem Proteksi Tenaga Listrik,Menentukan koordinasi proteksi dan Memilih gawai proteksi.,sistem pentanahan grounding dirancang.
+Insinyur Elektro,M.71IEN00.009.1,Melakukan Studi Kelayakan Proyek Elektro,Melakukan analisis teknis dan Melakukan analisis ekonomi.,ketersediaan teknologi dievaluasi
+Insinyur Elektro,M.71IEN00.009.1,Melakukan Studi Kelayakan Proyek Elektro,Melakukan analisis teknis dan Melakukan analisis ekonomi.,biaya investasi capex operasional opex dihitung
+Insinyur Elektro,M.71IEN00.009.1,Melakukan Studi Kelayakan Proyek Elektro,Melakukan analisis teknis dan Melakukan analisis ekonomi.,nilai npv irr dianalisis.
+Insinyur Elektro,M.71IEN00.010.1,Mengelola Manajemen Proyek Teknik Elektro,Menyusun jadwal pelaksanaan dan Melakukan pengawasan sumber daya.,wbs proyek dibuat
+Insinyur Elektro,M.71IEN00.010.1,Mengelola Manajemen Proyek Teknik Elektro,Menyusun jadwal pelaksanaan dan Melakukan pengawasan sumber daya.,kurva s dipantau
+Insinyur Elektro,M.71IEN00.010.1,Mengelola Manajemen Proyek Teknik Elektro,Menyusun jadwal pelaksanaan dan Melakukan pengawasan sumber daya.,kebutuhan material tenaga kerja dikoordinasikan
+Insinyur Elektro,M.71IEN00.010.1,Mengelola Manajemen Proyek Teknik Elektro,Menyusun jadwal pelaksanaan dan Melakukan pengawasan sumber daya.,anggaran proyek dikendalikan.
+Insinyur Elektro,M.71IEN00.011.1,Melakukan Pengadaan Barang dan Jasa Teknik,Menyusun dokumen tender dan Melakukan evaluasi penawaran.,spesifikasi teknis rks disusun
+Insinyur Elektro,M.71IEN00.011.1,Melakukan Pengadaan Barang dan Jasa Teknik,Menyusun dokumen tender dan Melakukan evaluasi penawaran.,klarifikasi teknis dilakukan vendor
+Insinyur Elektro,M.71IEN00.011.1,Melakukan Pengadaan Barang dan Jasa Teknik,Menyusun dokumen tender dan Melakukan evaluasi penawaran.,penilaian teknis harga diberikan objektif.
+Insinyur Elektro,M.71IEN00.012.1,Melaksanakan Supervisi Konstruksi Elektro,Memeriksa kesesuaian lapangan dan Menyetujui metode kerja.,pemasangan peralatan dipastikan sesuai gambar desain
+Insinyur Elektro,M.71IEN00.012.1,Melaksanakan Supervisi Konstruksi Elektro,Memeriksa kesesuaian lapangan dan Menyetujui metode kerja.,prosedur instalasi vendor diperiksa
+Insinyur Elektro,M.71IEN00.012.1,Melaksanakan Supervisi Konstruksi Elektro,Memeriksa kesesuaian lapangan dan Menyetujui metode kerja.,kendala teknis lapangan diselesaikan melalui instruksi lapangan.
+Insinyur Elektro,M.71IEN00.013.1,Melakukan Testing dan Commissioning Sistem,Melakukan uji individu alat dan Melakukan uji fungsi sistem terintegrasi.,uji tahanan isolasi kontinuitas dilakukan
+Insinyur Elektro,M.71IEN00.013.1,Melakukan Testing dan Commissioning Sistem,Melakukan uji individu alat dan Melakukan uji fungsi sistem terintegrasi.,sistem diuji coba kondisi beban
+Insinyur Elektro,M.71IEN00.013.1,Melakukan Testing dan Commissioning Sistem,Melakukan uji individu alat dan Melakukan uji fungsi sistem terintegrasi.,berita acara commissioning disusun.
+Insinyur Elektro,M.71IEN00.014.1,Mengelola Operasi Sistem Tenaga Listrik,Mengatur pembebanan dan Menjaga kualitas daya.,pengaturan jadwal pembangkitan dilakukan
+Insinyur Elektro,M.71IEN00.014.1,Mengelola Operasi Sistem Tenaga Listrik,Mengatur pembebanan dan Menjaga kualitas daya.,frekuensi tegangan dijaga batas toleransi
+Insinyur Elektro,M.71IEN00.014.1,Mengelola Operasi Sistem Tenaga Listrik,Mengatur pembebanan dan Menjaga kualitas daya.,manuver jaringan dilakukan gangguan.
+Insinyur Elektro,M.71IEN00.015.1,Melakukan Pemeliharaan Peralatan Listrik,Menyusun program pemeliharaan dan Menganalisis hasil pemeliharaan.,jadwal preventif prediktif dibuat
+Insinyur Elektro,M.71IEN00.015.1,Melakukan Pemeliharaan Peralatan Listrik,Menyusun program pemeliharaan dan Menganalisis hasil pemeliharaan.,riwayat kerusakan alat dianalisis
+Insinyur Elektro,M.71IEN00.015.1,Melakukan Pemeliharaan Peralatan Listrik,Menyusun program pemeliharaan dan Menganalisis hasil pemeliharaan.,tindakan perbaikan corrective ditentukan.
+Insinyur Elektro,M.71IEN00.016.1,Melakukan Audit Energi,Mengukur penggunaan energi dan Memberikan rekomendasi efisiensi.,pengukuran konsumsi listrik dilakukan titik beban utama
+Insinyur Elektro,M.71IEN00.016.1,Melakukan Audit Energi,Mengukur penggunaan energi dan Memberikan rekomendasi efisiensi.,peluang hemat energi phe diidentifikasi
+Insinyur Elektro,M.71IEN00.016.1,Melakukan Audit Energi,Mengukur penggunaan energi dan Memberikan rekomendasi efisiensi.,analisis biaya manfaat efisiensi energi disusun.
+Insinyur Elektro,M.71IEN00.017.1,Menerapkan Standar dan Regulasi Ketenagalistrikan,Menelaah regulasi terbaru dan Memastikan kepatuhan desain.,"standar puil, iec, ansi dipatuhi"
+Insinyur Elektro,M.71IEN00.017.1,Menerapkan Standar dan Regulasi Ketenagalistrikan,Menelaah regulasi terbaru dan Memastikan kepatuhan desain.,peraturan pemerintah keselamatan ketenagalistrikan diterapkan.
+Insinyur Elektro,M.71IEN00.018.1,Merancang Sistem Energi Terbarukan,Menganalisis potensi sumber energi dan Merancang sistem konversi energi.,potensi mataharianginair dipetakan
+Insinyur Elektro,M.71IEN00.018.1,Merancang Sistem Energi Terbarukan,Menganalisis potensi sumber energi dan Merancang sistem konversi energi.,sistem interkoneksi jalajala listrik grid dirancang
+Insinyur Elektro,M.71IEN00.018.1,Merancang Sistem Energi Terbarukan,Menganalisis potensi sumber energi dan Merancang sistem konversi energi.,penyimpanan energi baterai dikonfigurasi.
+Insinyur Elektro,M.71IEN00.019.1,Menggunakan Perangkat Lunak Teknik Elektro,Mengoperasikan software desain dan Mengelola data teknis digital.,software cad pemodelan sistem digunakan mahir
+Insinyur Elektro,M.71IEN00.019.1,Menggunakan Perangkat Lunak Teknik Elektro,Mengoperasikan software desain dan Mengelola data teknis digital.,integritas data desain digital dijaga.
+Insinyur Elektro,M.71IEN00.020.1,Mengelola Rantai Pasok Keinsinyuran,Mengevaluasi rantai pasokan dan Mengelola hubungan vendor.,strategi pembelian material utama disusun
+Insinyur Elektro,M.71IEN00.020.1,Mengelola Rantai Pasok Keinsinyuran,Mengevaluasi rantai pasokan dan Mengelola hubungan vendor.,sistem evaluasi efektivitas pasokan diterapkan
+Insinyur Elektro,M.71IEN00.020.1,Mengelola Rantai Pasok Keinsinyuran,Mengevaluasi rantai pasokan dan Mengelola hubungan vendor.,kerjasama kolaboratif mitra teknis dijalankan.
+Programmer,TIK.PR01.001.01,Membuat Algoritma Pemrograman Dasar,Mendefinisikan masalah,masalah akan diselesaikan diidentifikasi
+Programmer,TIK.PR01.001.01,Membuat Algoritma Pemrograman Dasar,Mendefinisikan masalah,masalah diuraikan menjadi komponenkomponen kecil
+Programmer,TIK.PR01.001.01,Membuat Algoritma Pemrograman Dasar,Mendefinisikan masalah,kebutuhan input output ditentukan.
+Programmer,TIK.PR01.001.01,Membuat Algoritma Pemrograman Dasar,Membuat alur logika (flowchart),simbolsimbol alur data digunakan sesuai standar
+Programmer,TIK.PR01.001.01,Membuat Algoritma Pemrograman Dasar,Membuat alur logika (flowchart),logika penyelesaian masalah disusun urut logis
+Programmer,TIK.PR01.001.01,Membuat Algoritma Pemrograman Dasar,Membuat alur logika (flowchart),algoritma diuji coba kering dry run.
+Programmer,TIK.PR02.001.01,Menggunakan Struktur Data,Menentukan struktur data,"jenis data integer, string, array, dipilih sesuai kebutuhan"
+Programmer,TIK.PR02.001.01,Menggunakan Struktur Data,Menentukan struktur data,"struktur data majemuk stack, queue, tree ditentukan diperlukan."
+Programmer,TIK.PR02.001.01,Menggunakan Struktur Data,Menerapkan operasi struktur data,"operasi dasar insert, delete, update dilakukan struktur data"
+Programmer,TIK.PR02.001.01,Menggunakan Struktur Data,Menerapkan operasi struktur data,efisiensi penggunaan memori diperhitungkan.
+Programmer,TIK.PR02.002.01,Membuat Program Dasar,Menyiapkan lingkungan pengembangan,perangkat lunak editor compiler disiapkan
+Programmer,TIK.PR02.002.01,Membuat Program Dasar,Menyiapkan lingkungan pengembangan,library dibutuhkan diidentifikasi dikonfigurasi.
+Programmer,TIK.PR02.002.01,Membuat Program Dasar,Menulis kode program,sintaks bahasa pemrograman diikuti benar
+Programmer,TIK.PR02.002.01,Membuat Program Dasar,Menulis kode program,"struktur kontrol ifelse, looping diterapkan"
+Programmer,TIK.PR02.002.01,Membuat Program Dasar,Menulis kode program,komentar ditambahkan bagian kode kompleks.
+Programmer,TIK.PR02.003.01,Melaksanakan Pengujian Unit Program,Membuat rencana pengujian unit,komponen program akan diuji ditentukan
+Programmer,TIK.PR02.003.01,Melaksanakan Pengujian Unit Program,Membuat rencana pengujian unit,data uji test data disiapkan kasus normal ekstrim.
+Programmer,TIK.PR02.003.01,Melaksanakan Pengujian Unit Program,Mengeksekusi pengujian,kesalahan sintaks logika diperbaiki
+Programmer,TIK.PR02.003.01,Melaksanakan Pengujian Unit Program,Mengeksekusi pengujian,hasil pengujian dibandingkan spesifikasi teknis
+Programmer,TIK.PR02.003.01,Melaksanakan Pengujian Unit Program,Mengeksekusi pengujian,laporan hasil pengujian unit didokumentasikan.
+Programmer,TIK.PR02.010.1,Menulis Program Lanjut,Menerapkan konsep OOP,class object diidentifikasi spesifikasi
+Programmer,TIK.PR02.010.1,Menulis Program Lanjut,Menerapkan konsep OOP,"prinsip enkapsulasi, pewarisan inheritance, polimorfisme diimplementasikan."
+Programmer,TIK.PR02.010.1,Menulis Program Lanjut,Mengelola penanganan kesalahan (Exception Handling),blok trycatch digunakan menangani error runtime
+Programmer,TIK.PR02.010.1,Menulis Program Lanjut,Mengelola penanganan kesalahan (Exception Handling),pesan kesalahan dibuat informatif pengguna.
+Programmer,TIK.PR02.020.01,Melakukan Debugging,Mencari sumber kesalahan,alat bantu debugger dioperasikan
+Programmer,TIK.PR02.020.01,Melakukan Debugging,Mencari sumber kesalahan,nilai variabel dipantau setiap langkah eksekusi stepover.
+Programmer,TIK.PR02.020.01,Melakukan Debugging,Memperbaiki bug,kode penyebab error dimodifikasi
+Programmer,TIK.PR02.020.01,Melakukan Debugging,Memperbaiki bug,program diuji untuk memastikan ada efek samping regression.
+Programmer,TIK.PR03.001.01,Mengelola Konfigurasi Perangkat Lunak,Menggunakan sistem kontrol versi (Git/SVN),repositori kode program dibuat dikonfigurasi
+Programmer,TIK.PR03.001.01,Mengelola Konfigurasi Perangkat Lunak,Menggunakan sistem kontrol versi (Git/SVN),perubahan kode commit dicatat pesan jelas
+Programmer,TIK.PR03.001.01,Mengelola Konfigurasi Perangkat Lunak,Menggunakan sistem kontrol versi (Git/SVN),konflik penggabungan kode merge diselesaikan.
+Programmer,TIK.PR02.023.01,Melakukan Instalasi Program,Menyiapkan paket instalasi (Deployment),file eksekusi dependensi dikemas installer
+Programmer,TIK.PR02.023.01,Melakukan Instalasi Program,Menyiapkan paket instalasi (Deployment),prosedur instalasi konfigurasi sistem didokumentasikan.
+Programmer,TIK.PR02.024.01,Memberikan Dukungan Teknis,Menangani keluhan operasional,laporan bug pengguna diidentifikasi tingkat kritisnya
+Programmer,TIK.PR02.024.01,Memberikan Dukungan Teknis,Menangani keluhan operasional,bantuan teknis diberikan melalui panduan remote akses.
+Programmer,TIK.PR01.002.01,Menerapkan Etika Profesi Programmer,Menghargai Hak Kekayaan Intelektual (HKI),lisensi perangkat lunak pihak ketiga dipatuhi
+Programmer,TIK.PR01.002.01,Menerapkan Etika Profesi Programmer,Menghargai Hak Kekayaan Intelektual (HKI),kode sumber milik organisasi dijaga kerahasiaannya.
+Data Analyst,TIK.PR02.007.01,Membuat Laporan Data,Merancang format laporan (Reporting),query penarikan data laporan disusun
+Data Analyst,TIK.PR02.007.01,Membuat Laporan Data,Merancang format laporan (Reporting),visualisasi data tabelgrafik ditampilkan sesuai kebutuhan manajerial.
+Programmer,TIK.PR02.012.01,Menggunakan Framework Pemrograman,Menginstalasi framework,struktur folder framework dipelajari
+Programmer,TIK.PR02.012.01,Menggunakan Framework Pemrograman,Menginstalasi framework,konfigurasi dasar databaserouting diatur sesuai standar framework.
+Programmer,TIK.PR02.013.01,Melakukan Refactoring Kode,Memperbaiki struktur kode,kode redundan dihapus digabung
+Programmer,TIK.PR02.013.01,Melakukan Refactoring Kode,Memperbaiki struktur kode,keterbacaan kode ditingkatkan mengubah fungsi utama.
+Programmer,TIK.PR05.001.01,Melakukan Pemeliharaan Sistem,Melakukan patching berkala,update keamanan diterapkan sistem berjalan
+Programmer,TIK.PR05.001.01,Melakukan Pemeliharaan Sistem,Melakukan patching berkala,log sistem diperiksa rutin mendeteksi potensi kegagalan.
+Programmer,J.620100.001.1,Menulis Kode Program Secara Dasar,Menyiapkan peralatan dan bahan untuk penulisan kode program,perangkat lunak editor kode disiapkan sesuai kebutuhan bahasa pemrograman
+Programmer,J.620100.001.1,Menulis Kode Program Secara Dasar,Menyiapkan peralatan dan bahan untuk penulisan kode program,dokumentasi spesifikasi teknis dipahami acuan penulisan kode.
+Programmer,J.620100.001.1,Menulis Kode Program Secara Dasar,Melakukan penulisan kode program,sintaks bahasa pemrograman diikuti benar
+Programmer,J.620100.001.1,Menulis Kode Program Secara Dasar,Melakukan penulisan kode program,algoritma dasar diimplementasikan kode
+Programmer,J.620100.001.1,Menulis Kode Program Secara Dasar,Melakukan penulisan kode program,variabel konstanta didefinisikan sesuai standar.
+Programmer,J.620100.001.1,Menulis Kode Program Secara Dasar,Melakukan pengujian kode program,kode program dikompilasi dijalankan mengecek kesalahan
+Programmer,J.620100.001.1,Menulis Kode Program Secara Dasar,Melakukan pengujian kode program,logika program dipastikan berjalan sesuai hasil diharapkan.
+Programmer,J.620100.004.1,Menggunakan Library atau Komponen Pre-existing,Mengidentifikasi library atau komponen yang dibutuhkan,fungsi library dianalisis kesesuaiannya fitur sistem
+Programmer,J.620100.004.1,Menggunakan Library atau Komponen Pre-existing,Mengidentifikasi library atau komponen yang dibutuhkan,dokumentasi library dipelajari memahami cara integrasi.
+Programmer,J.620100.004.1,Menggunakan Library atau Komponen Pre-existing,Mengintegrasikan library atau komponen ke dalam perangkat lunak,library diinstalasi dikonfigurasi proyek
+Programmer,J.620100.004.1,Menggunakan Library atau Komponen Pre-existing,Mengintegrasikan library atau komponen ke dalam perangkat lunak,fungsifungsi library dipanggil diuji integrasinya modul internal.
+Programmer,J.620100.017.1,Melakukan Debugging,Mengidentifikasi kesalahan (bug),program dijalankan lingkungan pengujian memicu error
+Programmer,J.620100.017.1,Melakukan Debugging,Mengidentifikasi kesalahan (bug),titik kesalahan ditemukan melalui teknik penelusuran kode alat debugger.
+Programmer,J.620100.019.1,Mengelola Repositori Kode Program,Menyiapkan lingkungan kontrol versi,repositori pusat dikonfigurasi platform disepakati
+Programmer,J.620100.019.1,Mengelola Repositori Kode Program,Menyiapkan lingkungan kontrol versi,struktur folder kebijakan akses repositori ditetapkan tim.
+Programmer,J.620100.019.1,Mengelola Repositori Kode Program,Melakukan manajemen perubahan kode,kode program dikirimkan commit repositori pesan deskriptif
+Programmer,J.620100.019.1,Mengelola Repositori Kode Program,Melakukan manajemen perubahan kode,konflik perubahan antar anggota tim diselesaikan melalui proses penggabungan merge.
